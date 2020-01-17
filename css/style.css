@@ -286,6 +286,12 @@ ol {
 	max-width: 10vw;
 }
 
+.row1 {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
 .sum {
 	white-space: nowrap;
 	background-color: white;
